@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+
+}
+header{
+    position: sticky;
+    top:0;
+    z-index:1;
+}
+body{
+    overflow-x: hidden;
+}
+
+.nav{
+    background-color: whitesmoke;
+}
+
+.whitesmoke{
+    background-color: whitesmoke;
+}
+
+.h11{
+
+}
+
+.start{
+    display:flex;
+    background-color:rgb(70, 70, 250) ;
+    width:100%;
+    height: 38px;
+    padding-top: 15px;
+    padding-bottom: px; 
+}
+
+.p2{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.social1 ul li{
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.social1{
+    padding-left: 35px;
+    padding-right: 180px;
+}
+
+.before-button p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+
+    
+}
+.button3 li{
+    border:solid 4px whitesmoke;
+    background-color: whitesmoke;
+    display:inline-flex;
+    height: 15px;
+    width: 80px;
+    text-align: center;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.button3{
+    margin-left: 80px;
+}
+
+header{
+    display: flex;
+}
+
+.nav-part{
+    
+        background-color:whitesmoke;
+        width:300px;
+        height:40px;
+        padding:10px;
+        padding-bottom: 20px;
+        padding-left: 120px;
+}
+ a:active{
+    background-color: rgb(70, 70, 250);
+    color:white
+}
+}
+
+.topbar{
+width: 100%;
+height: 80px;
+display: flex;
+background-color: rgb(70, 70, 250);
+
+}
+
+
+.nav2>li{
+    display: inline-block;
+    border:5px solid white;
+    background-color: white;
+    color: black;
+    margin-left: 5px;
+    text-align: center;
+    font-size: 12px;
+    
+}
+
+a:visited{
+    color: black;
+}
+
+
+.nav2{
+    padding-top: 20px;
+}
+
+.p1{
+    margin: 28px 10px 10px 10px;
+    text-align: center;
+    color: cornsilk;
+    padding-left: 20px;
+    font-size:18px;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.social{
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+
+.p2{
+    background-color:  rgb(47, 47, 228);
+    color: cornsilk;
+    border: solid 2px ;
+    border-radius: 2px;
+    width:1000;
+    padding-left:40px;
+    padding-right:40px;
+}
+
+
+
+
+
+.header2{
+    display: flex;
+}
+.intro{
+    margin:0px auto;
+}
+
+
